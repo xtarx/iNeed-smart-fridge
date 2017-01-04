@@ -7,7 +7,8 @@ cd ~/.node-red
 
 <code>    npm install node-red-contrib-streaming-stt
 </code>
-<code>        npm install node-red-contrib-play-audio
+
+<code>     npm install node-red-contrib-play-audio
 </code>
 
 <code>      npm i node-red-node-watson

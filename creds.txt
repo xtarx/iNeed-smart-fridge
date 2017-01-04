@@ -1,0 +1,25 @@
+conversation
+099450f2-8f84-444a-bb3f-b55e5c24a229
+p7jA4XtKCog3
+wid:369643aa-1511-4469-9e64-7af5cb3e719a
+
+STT
+  "password": "lbXCrH868qH7",
+
+  "username": "9e497e4b-3ee4-4880-8630-527da780efbb"
+
+
+Text to Speech-ac
+
+
+  "password": "CbA1lwpVx8gq",
+
+  "username": "0dfe6d74-7219-4b59-97a2-f52664047cd7"
+
+Tone Analyzer-eq
+
+
+  "password": "ia0yxgBtRTEh",
+
+  "username": "30b4c789-4d3b-48a5-863c-50c2969dd29c"
+
